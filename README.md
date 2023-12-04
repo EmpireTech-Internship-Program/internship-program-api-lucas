@@ -1,1 +1,0 @@
-# internship-program-api-lucas
